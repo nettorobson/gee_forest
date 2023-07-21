@@ -3,3 +3,5 @@ Abstract: Javascript code to evaluate a forest recovering area for a time period
 
 NOTES:
 This code was tested on a GEE environment. To run it outside GEE, it's necessary to work with libraries available in JS and Python languages.
+
+More details of the project, methodology and results to be added in due time.

@@ -8,11 +8,13 @@ The restorarion project was divided into two target-areas, representing an appro
 
 This project evaluated the land transformation between 2015 and 2022 aiming to update the data abaout the areas and review the costs of maintenance (for short and long-term planning).
 
-# RESULTS
-After conducting this study, it was possible to reduce the maintenance costs by nearly US$ 34,572 dollars per year (BRL 172,861.39/year). This reduction represents almost 55% of the annual budget for the maintenance program.
+## RESULTS
+After conducting this study, it was possible to <b>reduce the maintenance costs by nearly US$ 34,572 dollars per year</b> (BRL 172,861.39/year). This reduction represents almost <b>55% of the annual budget</b> for the maintenance program.
 
 
-NOTES:
+<b>NOTES</b>
+The customer, location and more detailed data are omitted due confidenciality reasons.
+
 This code was tested on a GEE environment. To run it outside GEE, it's necessary to work with libraries available in JS and Python languages.
 
 More details of the project, methodology and results to be added in due time.

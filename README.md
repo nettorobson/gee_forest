@@ -11,8 +11,7 @@ This project evaluated the land transformation between 2015 and 2022 aiming to u
 ## RESULTS
 After conducting this study, it was possible to <b>reduce the maintenance costs by nearly US$ 34,572 dollars per year</b> (BRL 172,861.39/year). This reduction represents almost <b>55% of the annual budget</b> for the maintenance program.
 
-
-<b>NOTES</b>
+## NOTES
 The customer, location and more detailed data are omitted due confidenciality reasons.
 
 This code was tested on a GEE environment. To run it outside GEE, it's necessary to work with libraries available in JS and Python languages.
